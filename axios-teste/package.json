@@ -1,0 +1,16 @@
+{
+  "name": "axios-teste",
+  "version": "1.0.0",
+  "description": "simple http request with axios, consuming api ViaCEP",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"},
+    "start": "node main.js",
+  "keywords": [],
+  "author": "dlnz",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
